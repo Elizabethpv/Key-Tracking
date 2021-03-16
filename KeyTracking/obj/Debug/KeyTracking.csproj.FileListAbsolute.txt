@@ -1,0 +1,10 @@
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\bin\Debug\KeyTracking.exe.config
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\bin\Debug\KeyTracking.exe
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\bin\Debug\KeyTracking.pdb
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.Form1.resources
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.Properties.Resources.resources
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.csproj.GenerateResource.cache
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.csproj.CoreCompileInputs.cache
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.exe
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.pdb
+C:\Users\win 10\source\repos\KeyTracking\KeyTracking\obj\Debug\KeyTracking.csprojAssemblyReference.cache
